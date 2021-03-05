@@ -12,11 +12,11 @@ All coding **must** be done inside of the repl.it IDE that is created when you c
 
 ## Directions
 1. Design a program that:
-    - Has a comment that indicates this is Lesson 7 Programming Assignment
-    - Displays your full name to the console/shell
+    - Includes a comment indicating this is the GitHub Orientation Assignment.
+    - Displays your full name to the console.
     - Calculates and displays the number of items in eight dozen
     - Calculates and displays the number of weeks in 180 days, as a whole number (truncated)   
-2. Test your program by running it and examining the output. Fix any errors that occur. Your output should match the example below exactly (with the exception of your name):
+2. Test your program by running it and examining the output. Fix any errors that occur. Your output should match the example below exactly, with the exception of your name:
 
     ```console
     Jane Doe
