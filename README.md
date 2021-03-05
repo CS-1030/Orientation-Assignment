@@ -1,4 +1,5 @@
 # GitHub Orientation Assignment
+![](assets/github-classroom.png)
 
 ## Objectives
 - Become familiar with completing your programming assignments via GitHub.
@@ -31,6 +32,6 @@ This [video](https://youtu.be/gdc-SYhRFCM) will walk you through the GitHub subm
 [This website](https://cs-1400.github.io/) can be used as a quick Python reference for students as they complete these GitHub programming assignments.
 
 ## Replit Run Button 
-Occasionally, the Repl.it run button will not work. If this happens to you, manually run your file by typing ```python3 src/exercise.py``` at the prompt in the console:
+Occasionally, the Repl.it run button will not work. If this happens to you, manually run your file by typing `python3 src/exercise.py` at the prompt in the console:
 
 ![](assets/manual-execution.png)
