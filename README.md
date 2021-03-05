@@ -18,11 +18,11 @@ All coding **must** be done inside of the repl.it IDE that is created when you c
     - Calculates and displays the number of weeks in 180 days, as a whole number (truncated)   
 2. Test your program by running it and examining the output. Fix any errors that occur. Your output should match the example below exactly (with the exception of your name):
 
-```
-Jane Doe
-96
-25
-```
+    ```console
+    Jane Doe
+    96
+    25
+    ```
 
 ## GitHub Submission
 This [video](https://youtu.be/gdc-SYhRFCM) will walk you through the GitHub submission process step-by-step. 
